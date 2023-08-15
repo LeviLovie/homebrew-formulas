@@ -11,5 +11,6 @@ class Timezones < Formula
 
   def caveats; <<-EOS.undent
     Please, run timezones to start the application.
+    EOS
   end
 end
