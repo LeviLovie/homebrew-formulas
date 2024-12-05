@@ -1,8 +1,8 @@
 class Pinniped < Formula
   desc "Pinniped - A stack-based programming language"
   homepage "https://github.com/LeviLovie/pinniped"
-  url "https://github.com/LeviLovie/pinniped/archive/refs/tags/v0.0.2.tar.gz"
-  sha256 "519c80223857130da764566ec4d4a76fad15492c7fc91402f98da8c37e3e6e50"
+  url "https://github.com/LeviLovie/pinniped/archive/refs/tags/v0.0.3.tar.gz"
+  sha256 "08164ac8f22b2c257f38e697be642b5e18bf9f5a1b52efcc5e4bc13d824aff13"
   license "GPL-3.0"
 
   depends_on "rust" => :build
